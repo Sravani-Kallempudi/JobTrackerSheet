@@ -1,2 +1,2 @@
 # JobTrackerSheet
-Job tracking sheet 
+Job tracking application made with google sheets.
